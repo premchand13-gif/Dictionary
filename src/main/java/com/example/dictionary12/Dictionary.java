@@ -19,6 +19,7 @@ import java.util.ArrayList;
 
 public class Dictionary extends Application {
     TextField textField;
+    String name;
     Button searchButton;
     Button getMeaningButton;
     Label meaningLabel=new Label();
